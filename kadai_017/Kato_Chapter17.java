@@ -17,7 +17,10 @@ public abstract class Kato_Chapter17 {
         System.out.println("住所：" + address);  
         }
 
-    
     public abstract void eachIntroduce();
+    
+    public void execIntroduce() {
+    	System.out.println();
+    }
     
 }
