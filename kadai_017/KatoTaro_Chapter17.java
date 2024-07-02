@@ -4,7 +4,7 @@ public class KatoTaro_Chapter17 extends Kato_Chapter17 {
 	
 	public KatoTaro_Chapter17() {
 		
-		givenName = "太郎";
+		setGivenName = "太郎";
 		
 	}
 
