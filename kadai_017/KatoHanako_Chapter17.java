@@ -7,9 +7,7 @@ public class KatoHanako_Chapter17 extends Kato_Chapter17 {
     }
 	
 	
-	public KatoHanako_Chapter17() {
-        setGivenName("花子");
-    }
+	
 
     @Override
     public void eachIntroduce() {
