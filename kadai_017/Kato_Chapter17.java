@@ -16,7 +16,8 @@ public abstract class Kato_Chapter17 {
     
     
     public void execIntroduce() {
-    
+    	this.commonIntroduce();
+		this.eachIntroduce();
     	System.out.println();
     }
     
