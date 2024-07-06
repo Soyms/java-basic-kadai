@@ -12,15 +12,14 @@ public class KatoExec_Chapter17 {
 
         // 出力
 		KatoTaro.setGivenName();
-		KatoTaro.eachIntroduce();
-		
+		KatoTaro.execIntroduce();
 		
 		KatoIchiro.setGivenName();
-		KatoIchiro.eachIntroduce();
-		
-		
+		KatoIchiro.execIntroduce();
+	
 		KatoHanako.setGivenName();
-		KatoHanako.eachIntroduce();
+		KatoHanako.execIntroduce();
+		
 
 	}
 }
