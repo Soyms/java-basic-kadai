@@ -16,6 +16,7 @@ public abstract class Kato_Chapter17 {
     
     
     public void execIntroduce() {
+    	
     	System.out.println();
     }
     

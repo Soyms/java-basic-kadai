@@ -14,11 +14,11 @@ public class KatoExec_Chapter17 {
 		KatoTaro.setGivenName("太郎");
 		KatoTaro.eachIntroduce();
 		
-		KatoIchiro.commonIntroduce();
+		
 		KatoIchiro.setGivenName("一郎");
 		KatoIchiro.eachIntroduce();
 		
-		KatoHanako.commonIntroduce();
+		
 		KatoHanako.setGivenName("花子");
 		KatoHanako.eachIntroduce();
 
