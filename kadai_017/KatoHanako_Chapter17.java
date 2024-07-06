@@ -3,10 +3,12 @@ package kadai_017;
 public class KatoHanako_Chapter17 extends Kato_Chapter17 {
 	
 	public void setGivenName(String givenName) {
-        this.givenName = givenName;
+	       
     }
 	
-	
+	public KatoHanako_Chapter17() {
+        givenName = "花子";
+    }
 	
 
     @Override

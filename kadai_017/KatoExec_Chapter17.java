@@ -11,15 +11,14 @@ public class KatoExec_Chapter17 {
 		KatoHanako_Chapter17 KatoHanako = new KatoHanako_Chapter17();
 
         // 出力
-		KatoTaro.setGivenName("太郎");
 		KatoTaro.eachIntroduce();
+	
+	
 		
-		
-		KatoIchiro.setGivenName("一郎");
 		KatoIchiro.eachIntroduce();
 		
 		
-		KatoHanako.setGivenName("花子");
+		
 		KatoHanako.eachIntroduce();
 
 	}
