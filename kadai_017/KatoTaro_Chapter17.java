@@ -3,14 +3,11 @@ package kadai_017;
 public class KatoTaro_Chapter17 extends Kato_Chapter17 {
 	 
 	public void setGivenName() {
-       
+		this.givenName = "太郎";
     }
 	
-	public KatoTaro_Chapter17() {
-        givenName = "太郎";
-    }
 
-    @Override
+	@Override
     public void eachIntroduce() {
     	System.out.println("名前：" + familyName + " " + givenName);
         System.out.println("住所：" + address); 

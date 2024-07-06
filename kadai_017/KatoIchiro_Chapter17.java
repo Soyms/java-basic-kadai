@@ -3,12 +3,9 @@ package kadai_017;
 public class KatoIchiro_Chapter17 extends Kato_Chapter17 {
 	
 	public void setGivenName() {
-	       
+		this. givenName = "一郎";
     }
 	
-	public KatoIchiro_Chapter17() {
-        givenName = "一郎";
-    }
 	
     @Override
     public void eachIntroduce() {

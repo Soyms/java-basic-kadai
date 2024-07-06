@@ -4,7 +4,7 @@ public abstract class Kato_Chapter17 {
 	
 	public String familyName = "加藤";
 	public String address = "東京都";
-	protected String givenName;
+	public String givenName;
 	
 	
     public void commonIntroduce() {
@@ -16,7 +16,7 @@ public abstract class Kato_Chapter17 {
     
     
     public void execIntroduce() {
-    	
+    
     	System.out.println();
     }
     
