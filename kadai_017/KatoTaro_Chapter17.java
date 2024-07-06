@@ -2,7 +2,7 @@ package kadai_017;
 
 public class KatoTaro_Chapter17 extends Kato_Chapter17 {
 	 
-	public void setGivenName(String givenName) {
+	public void setGivenName() {
        
     }
 	
